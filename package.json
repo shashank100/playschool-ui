@@ -1,0 +1,19 @@
+{
+  "name": "play-school",
+  "version": "1.0.0",
+  "description": "A Startup idea for play school listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank100/playschool.git"
+  },
+  "author": "Shashank Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank100/playschool/issues"
+  },
+  "homepage": "https://github.com/shashank100/playschool#readme"
+}
